@@ -1,0 +1,7 @@
+D:\Papka Vladika\Projects VS\Factory\Factory\bin\Debug\Factory.exe.config
+D:\Papka Vladika\Projects VS\Factory\Factory\bin\Debug\Factory.exe
+D:\Papka Vladika\Projects VS\Factory\Factory\bin\Debug\Factory.pdb
+D:\Papka Vladika\Projects VS\Factory\Factory\obj\Debug\Factory.csprojAssemblyReference.cache
+D:\Papka Vladika\Projects VS\Factory\Factory\obj\Debug\Factory.csproj.CoreCompileInputs.cache
+D:\Papka Vladika\Projects VS\Factory\Factory\obj\Debug\Factory.exe
+D:\Papka Vladika\Projects VS\Factory\Factory\obj\Debug\Factory.pdb

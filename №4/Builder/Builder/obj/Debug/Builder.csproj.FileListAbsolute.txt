@@ -1,0 +1,7 @@
+D:\Papka Vladika\Projects VS\Builder\Builder\obj\Debug\Builder.csprojAssemblyReference.cache
+D:\Papka Vladika\Projects VS\Builder\Builder\obj\Debug\Builder.csproj.CoreCompileInputs.cache
+D:\Papka Vladika\Projects VS\Builder\Builder\bin\Debug\Builder.exe.config
+D:\Papka Vladika\Projects VS\Builder\Builder\bin\Debug\Builder.exe
+D:\Papka Vladika\Projects VS\Builder\Builder\bin\Debug\Builder.pdb
+D:\Papka Vladika\Projects VS\Builder\Builder\obj\Debug\Builder.exe
+D:\Papka Vladika\Projects VS\Builder\Builder\obj\Debug\Builder.pdb

@@ -1,0 +1,7 @@
+D:\Papka Vladika\Projects VS\Singleton\Singleton\bin\Debug\Singleton.exe.config
+D:\Papka Vladika\Projects VS\Singleton\Singleton\bin\Debug\Singleton.exe
+D:\Papka Vladika\Projects VS\Singleton\Singleton\bin\Debug\Singleton.pdb
+D:\Papka Vladika\Projects VS\Singleton\Singleton\obj\Debug\Singleton.csprojAssemblyReference.cache
+D:\Papka Vladika\Projects VS\Singleton\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
+D:\Papka Vladika\Projects VS\Singleton\Singleton\obj\Debug\Singleton.exe
+D:\Papka Vladika\Projects VS\Singleton\Singleton\obj\Debug\Singleton.pdb

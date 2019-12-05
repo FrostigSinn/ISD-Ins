@@ -1,0 +1,7 @@
+D:\Papka Vladika\Projects VS\MagazineEvent\MagazineEvent\bin\Debug\MagazineEvent.exe.config
+D:\Papka Vladika\Projects VS\MagazineEvent\MagazineEvent\bin\Debug\MagazineEvent.exe
+D:\Papka Vladika\Projects VS\MagazineEvent\MagazineEvent\bin\Debug\MagazineEvent.pdb
+D:\Papka Vladika\Projects VS\MagazineEvent\MagazineEvent\obj\Debug\MagazineEvent.csprojAssemblyReference.cache
+D:\Papka Vladika\Projects VS\MagazineEvent\MagazineEvent\obj\Debug\MagazineEvent.csproj.CoreCompileInputs.cache
+D:\Papka Vladika\Projects VS\MagazineEvent\MagazineEvent\obj\Debug\MagazineEvent.exe
+D:\Papka Vladika\Projects VS\MagazineEvent\MagazineEvent\obj\Debug\MagazineEvent.pdb

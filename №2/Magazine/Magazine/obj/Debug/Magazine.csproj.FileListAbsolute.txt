@@ -1,0 +1,7 @@
+D:\Papka Vladika\Projects VS\Magazine\Magazine\bin\Debug\Magazine.exe.config
+D:\Papka Vladika\Projects VS\Magazine\Magazine\bin\Debug\Magazine.exe
+D:\Papka Vladika\Projects VS\Magazine\Magazine\bin\Debug\Magazine.pdb
+D:\Papka Vladika\Projects VS\Magazine\Magazine\obj\Debug\Magazine.csprojAssemblyReference.cache
+D:\Papka Vladika\Projects VS\Magazine\Magazine\obj\Debug\Magazine.csproj.CoreCompileInputs.cache
+D:\Papka Vladika\Projects VS\Magazine\Magazine\obj\Debug\Magazine.exe
+D:\Papka Vladika\Projects VS\Magazine\Magazine\obj\Debug\Magazine.pdb

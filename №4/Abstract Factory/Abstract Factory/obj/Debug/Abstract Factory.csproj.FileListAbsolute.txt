@@ -1,7 +1,0 @@
-D:\Papka Vladika\Projects VS\Patterns\Abstract Factory\Abstract Factory\bin\Debug\Abstract Factory.exe.config
-D:\Papka Vladika\Projects VS\Patterns\Abstract Factory\Abstract Factory\bin\Debug\Abstract Factory.exe
-D:\Papka Vladika\Projects VS\Patterns\Abstract Factory\Abstract Factory\bin\Debug\Abstract Factory.pdb
-D:\Papka Vladika\Projects VS\Patterns\Abstract Factory\Abstract Factory\obj\Debug\Abstract Factory.csprojAssemblyReference.cache
-D:\Papka Vladika\Projects VS\Patterns\Abstract Factory\Abstract Factory\obj\Debug\Abstract Factory.csproj.CoreCompileInputs.cache
-D:\Papka Vladika\Projects VS\Patterns\Abstract Factory\Abstract Factory\obj\Debug\Abstract Factory.exe
-D:\Papka Vladika\Projects VS\Patterns\Abstract Factory\Abstract Factory\obj\Debug\Abstract Factory.pdb

@@ -1,7 +1,0 @@
-D:\Papka Vladika\Projects VS\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe.config
-D:\Papka Vladika\Projects VS\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe
-D:\Papka Vladika\Projects VS\PhoneBook\PhoneBook\bin\Debug\PhoneBook.pdb
-D:\Papka Vladika\Projects VS\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csprojAssemblyReference.cache
-D:\Papka Vladika\Projects VS\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.CoreCompileInputs.cache
-D:\Papka Vladika\Projects VS\PhoneBook\PhoneBook\obj\Debug\PhoneBook.exe
-D:\Papka Vladika\Projects VS\PhoneBook\PhoneBook\obj\Debug\PhoneBook.pdb

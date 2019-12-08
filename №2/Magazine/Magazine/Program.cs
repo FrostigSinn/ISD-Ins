@@ -38,7 +38,7 @@ namespace Magazine
             if (!count.ContainsKey(someMagazine.Name))
             {
                 count.Add(someMagazine.Name, 0);
-                someMagazine.subscribers += magazinesCount;
+                someMagazine.subscribers += readIssue;
             }
             else
                 Console.WriteLine("Already subscribed");
@@ -49,13 +49,13 @@ namespace Magazine
             if (count.ContainsKey(someMagazine.Name))
             {
                 count.Remove(someMagazine.Name);
-                someMagazine.subscribers -= magazinesCount;
+                someMagazine.subscribers -= readIssue;
             }
             else
                 Console.WriteLine("Not subscribed");
         }
 
-        public void magazinesCount(Magazine someMagazine)
+        public void readIssue(Magazine someMagazine)
         {
             count[someMagazine.Name]++;
             Console.WriteLine("{0} read {1} issue of the {2} magazine", Name, count[someMagazine.Name], someMagazine.Name);
